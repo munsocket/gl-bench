@@ -1,6 +1,6 @@
 {
   "name": "gl-bench",
-  "version": "1.0.42",
+  "version": "1.0.43",
   "description": "WebGL performance monitor that showing percentage of GPU/CPU load",
   "main": "./dist/gl-bench.js",
   "browser": "./dist/gl-bench.min.js",
@@ -25,7 +25,7 @@
     "nyc": "^15.0.0",
     "puppeteer": "10.0.0",
     "puppeteer-to-istanbul": "1.4.0",
-    "rollup": "2.51.2",
+    "rollup": "2.53.2",
     "rollup-plugin-modify": "3.0.0",
     "rollup-plugin-string": "3.0.0",
     "zora": "4.1.0"
